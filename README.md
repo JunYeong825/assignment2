@@ -19,8 +19,6 @@ assignment2/
 ├── part2_controlled.py     # Task 2: SDEdit (Img2Img) implementation
 ├── part3_domain.py         # Task 3: LoRA stylization and ablation study
 ├── prepare_part3_data.py   # Data preparation for style learning
-├── report.tex              # Comprehensive academic report (NeurIPS template)
-├── checklist.tex           # NeurIPS reproducibility checklist
 ├── utils/
 │   └── metrics.py          # CLIP Score and LPIPS evaluation utilities
 ├── data/                   # Input datasets (generated)
